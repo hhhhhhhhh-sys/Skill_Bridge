@@ -78,9 +78,6 @@ skillswap/
 
 ---
 
-## 📧 Contact
-Kaushal Kumar  
-GitHub: https://github.com/your-username  
 
 ---
 
