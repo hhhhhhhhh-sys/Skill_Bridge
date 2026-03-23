@@ -1,17 +1,17 @@
 # 🚀 SkillSwap – Peer Learning & Micro-Mentorship Platform
 
 ## 📌 Overview
-SkillSwap is a full-stack web application that enables users to exchange skills through a collaborative peer-learning system. Users can offer skills they know and request skills they want to learn, creating a mutually beneficial ecosystem without monetary cost.
+SkillSwap is an **original full-stack web application developed from scratch** to enable peer-to-peer learning and skill exchange. The platform allows users to share their knowledge by offering skills and learn new ones by connecting with others, creating a collaborative and cost-free learning ecosystem.
 
 ---
 
 ## 🎯 Features
 - 🔐 Secure Authentication & Authorization (JWT, Spring Security)
-- 👤 User Profiles (skills offered & skills wanted)
-- 🔄 Skill Matching System (connect users based on complementary skills)
-- 💬 Messaging System (user-to-user communication)
-- 📅 Session Scheduling (manage learning sessions)
-- ⭐ Rating & Feedback (post-session reviews)
+- 👤 User Profiles (add skills offered & skills to learn)
+- 🔄 Skill Matching System (custom logic to connect users)
+- 💬 Messaging System (user interaction & communication)
+- 📅 Session Scheduling (plan learning sessions)
+- ⭐ Rating & Feedback System (build trust & credibility)
 
 ---
 
@@ -25,12 +25,15 @@ SkillSwap is a full-stack web application that enables users to exchange skills 
 ---
 
 ## 🧠 Problem Statement
-Many learning platforms are expensive, one-directional, and lack personalization.
+Most learning platforms are expensive, one-directional, and lack real peer interaction or personalized mentorship.
 
 ---
 
 ## 💡 Solution
-SkillSwap enables free skill exchange, promotes peer-to-peer learning, and provides real mentorship experience.
+SkillSwap enables:
+- Free skill exchange  
+- Peer-to-peer learning  
+- Real-world mentorship experience  
 
 ---
 
@@ -71,13 +74,19 @@ skillswap/
 ---
 
 ## 🚀 Future Enhancements
-- AI-based skill recommendation  
+- AI-based skill recommendation system  
 - Video calling (WebRTC)  
 - Gamification (badges, leaderboard)  
-- Mobile app  
+- Mobile application  
 
 ---
 
+## 👨‍💻 Team Members
+- Kaushal Kumar – https://github.com/Kaushalkumar012  
+- Rahul Sethi – https://github.com/r4hul-s3thi  
+- Harsh Singh – https://github.com/hhhhhhhhh-sys  
+- Badal Kumar Singh – https://github.com/singhbadal4040-netizen  
+- Ayan Sinha  
 
 ---
 
