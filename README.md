@@ -86,7 +86,7 @@ skillswap/
 - Rahul Sethi – https://github.com/r4hul-s3thi  
 - Harsh Singh – https://github.com/hhhhhhhhh-sys  
 - Badal Kumar Singh – https://github.com/singhbadal4040-netizen  
-- Ayan Sinha  
+- Ayan Sinha  - https://github.com/ayansinha999-creator
 
 ---
 
